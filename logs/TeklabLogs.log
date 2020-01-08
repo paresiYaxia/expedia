@@ -1,0 +1,90 @@
+[INFO ] 2019-11-26 10:53:13.511 [main] Log4jManager - Successfully Initiated Chrome Driver
+[INFO ] 2019-11-26 10:53:13.515 [main] Log4jManager - Test Case: registerAttemptTest on [ExpediaAccountRegisterTest passed=0 failed=0 skipped=0] Started
+[INFO ] 2019-11-26 10:53:25.246 [main] Log4jManager - Test Case: registerAttemptTest on [ExpediaAccountRegisterTest passed=0 failed=0 skipped=0] Failed
+[INFO ] 2019-11-26 11:05:33.019 [main] Log4jManager - Successfully Initiated Chrome Driver
+[INFO ] 2019-11-26 11:05:33.040 [main] Log4jManager - Test Case: registerAttemptTest on [ExpediaAccountRegisterTest passed=0 failed=0 skipped=0] Started
+[INFO ] 2019-11-26 11:06:12.224 [main] Log4jManager - Test Case: registerAttemptTest on [ExpediaAccountRegisterTest passed=0 failed=0 skipped=0] Failed
+[INFO ] 2019-11-26 11:09:15.219 [main] Log4jManager - Successfully Initiated Chrome Driver
+[INFO ] 2019-11-26 11:09:15.229 [main] Log4jManager - Test Case: registerAttemptTest on [ExpediaAccountRegisterTest passed=0 failed=0 skipped=0] Started
+[INFO ] 2019-11-26 11:09:30.991 [main] Log4jManager - Test Case: registerAttemptTest on [ExpediaAccountRegisterTest passed=0 failed=0 skipped=0] Failed
+[INFO ] 2019-11-26 11:10:59.864 [main] Log4jManager - Successfully Initiated Chrome Driver
+[INFO ] 2019-11-26 11:10:59.889 [main] Log4jManager - Test Case: registerAttemptTest on [ExpediaAccountRegisterTest passed=0 failed=0 skipped=0] Started
+[INFO ] 2019-11-26 11:11:14.818 [main] Log4jManager - Test Case: registerAttemptTest on [ExpediaAccountRegisterTest passed=0 failed=0 skipped=0] Failed
+[INFO ] 2019-11-26 11:12:54.373 [main] Log4jManager - Successfully Initiated Chrome Driver
+[INFO ] 2019-11-26 11:12:54.385 [main] Log4jManager - Test Case: registerAttemptTest on [ExpediaAccountRegisterTest passed=0 failed=0 skipped=0] Started
+[INFO ] 2019-11-26 11:13:08.589 [main] Log4jManager - Test Case: registerAttemptTest on [ExpediaAccountRegisterTest passed=0 failed=0 skipped=0] Failed
+[INFO ] 2019-11-26 11:14:46.996 [main] Log4jManager - Successfully Initiated Chrome Driver
+[INFO ] 2019-11-26 11:14:47.009 [main] Log4jManager - Test Case: registerAttemptTest on [ExpediaAccountRegisterTest passed=0 failed=0 skipped=0] Started
+[INFO ] 2019-11-26 19:00:01.280 [main] Log4jManager - Successfully Initiated Chrome Driver
+[INFO ] 2019-11-26 19:00:01.293 [main] Log4jManager - Test Case: registerAttemptTest on [ExpediaAccountRegisterTest passed=0 failed=0 skipped=0] Started
+[INFO ] 2019-11-26 19:00:26.601 [main] Log4jManager - Filled in Sign Up section inofrmation from input 
+[ERROR] 2019-11-26 19:01:57.507 [main] Log4jManager - Wait Error: element was not visible after 60 seconds.
+[INFO ] 2019-11-26 19:02:27.556 [main] Log4jManager - Test Case: registerAttemptTest on [ExpediaAccountRegisterTest passed=0 failed=0 skipped=0] Failed
+[INFO ] 2019-11-26 20:06:54.137 [main] Log4jManager - Successfully Initiated Chrome Driver
+[INFO ] 2019-11-26 20:06:54.149 [main] Log4jManager - Test Case: registerAttemptTest on [ExpediaAccountRegisterTest passed=0 failed=0 skipped=0] Started
+[INFO ] 2019-11-26 20:07:27.333 [main] Log4jManager - Filled in Sign Up section inofrmation from input 
+[ERROR] 2019-11-26 20:08:58.367 [main] Log4jManager - Wait Error: element was not visible after 60 seconds.
+[INFO ] 2019-11-26 20:09:28.503 [main] Log4jManager - Test Case: registerAttemptTest on [ExpediaAccountRegisterTest passed=0 failed=0 skipped=0] Failed
+[INFO ] 2019-12-18 21:12:59.422 [main] Log4jManager - Successfully Initiated Chrome Driver
+[INFO ] 2019-12-18 21:12:59.431 [main] Log4jManager - Test Case: registerAttemptTest on [ExpediaAccountRegisterTest passed=0 failed=0 skipped=0] Started
+[INFO ] 2019-12-18 21:13:01.514 [main] Log4jManager - Test Case: registerAttemptTest on [ExpediaAccountRegisterTest passed=0 failed=0 skipped=0] Failed
+[INFO ] 2019-12-18 21:13:01.524 [main] Log4jManager - Test Case: registerAttemptTest on [ExpediaAccountRegisterTest passed=0 failed=0 skipped=0] Failed
+[INFO ] 2019-12-18 21:14:21.293 [main] Log4jManager - Successfully Initiated Chrome Driver
+[INFO ] 2019-12-18 21:14:21.300 [main] Log4jManager - Test Case: registerAttemptTest on [ExpediaAccountRegisterTest passed=0 failed=0 skipped=0] Started
+[INFO ] 2019-12-18 21:14:21.990 [main] Log4jManager - Test Case: registerAttemptTest on [ExpediaAccountRegisterTest passed=0 failed=0 skipped=0] Failed
+[INFO ] 2019-12-18 21:14:22.009 [main] Log4jManager - Test Case: registerAttemptTest on [ExpediaAccountRegisterTest passed=0 failed=0 skipped=0] Failed
+[INFO ] 2019-12-18 21:20:46.952 [main] Log4jManager - Successfully Initiated Chrome Driver
+[INFO ] 2019-12-18 21:20:46.961 [main] Log4jManager - Test Case: registerAttemptTest on [ExpediaAccountRegisterTest passed=0 failed=0 skipped=0] Started
+[INFO ] 2019-12-18 21:20:49.000 [main] Log4jManager - Test Case: registerAttemptTest on [ExpediaAccountRegisterTest passed=0 failed=0 skipped=0] Failed
+[INFO ] 2019-12-18 21:20:49.012 [main] Log4jManager - Test Case: registerAttemptTest on [ExpediaAccountRegisterTest passed=0 failed=0 skipped=0] Failed
+[INFO ] 2019-12-18 21:29:38.029 [main] Log4jManager - Successfully Initiated Chrome Driver
+[INFO ] 2019-12-18 21:29:38.049 [main] Log4jManager - Test Case: registerAttemptTest on [ExpediaAccountRegisterTest passed=0 failed=0 skipped=0] Started
+[INFO ] 2019-12-18 21:29:40.063 [main] Log4jManager - Test Case: registerAttemptTest on [ExpediaAccountRegisterTest passed=0 failed=0 skipped=0] Failed
+[INFO ] 2019-12-18 21:29:40.079 [main] Log4jManager - Test Case: registerAttemptTest on [ExpediaAccountRegisterTest passed=0 failed=0 skipped=0] Failed
+[INFO ] 2019-12-18 21:32:59.735 [main] Log4jManager - Successfully Initiated Chrome Driver
+[INFO ] 2019-12-18 21:32:59.751 [main] Log4jManager - Test Case: registerAttemptTest on [ExpediaAccountRegisterTest passed=0 failed=0 skipped=0] Started
+[INFO ] 2019-12-18 21:32:59.880 [main] Log4jManager - Test Case: registerAttemptTest on [ExpediaAccountRegisterTest passed=0 failed=0 skipped=0] Failed
+[INFO ] 2019-12-18 21:32:59.899 [main] Log4jManager - Test Case: registerAttemptTest on [ExpediaAccountRegisterTest passed=0 failed=0 skipped=0] Failed
+[INFO ] 2019-12-18 22:06:41.969 [main] Log4jManager - Successfully Initiated Chrome Driver
+[INFO ] 2019-12-18 22:06:41.988 [main] Log4jManager - Test Case: registerAttemptTest on [ExpediaAccountRegisterTest passed=0 failed=0 skipped=0] Started
+[INFO ] 2019-12-18 22:06:58.873 [main] Log4jManager - we get the web
+[INFO ] 2019-12-18 22:07:08.605 [main] Log4jManager - Filled in Sign Up section inofrmation from input 
+[ERROR] 2019-12-18 22:08:09.086 [main] Log4jManager - Wait Error: element was not visible after 60 seconds.
+[INFO ] 2019-12-18 22:08:09.113 [main] Log4jManager - Test Case: registerAttemptTest on [ExpediaAccountRegisterTest passed=0 failed=0 skipped=0] Failed
+[INFO ] 2019-12-18 22:08:09.137 [main] Log4jManager - Test Case: registerAttemptTest on [ExpediaAccountRegisterTest passed=0 failed=0 skipped=0] Failed
+[INFO ] 2019-12-18 22:09:43.116 [main] Log4jManager - Successfully Initiated Chrome Driver
+[INFO ] 2019-12-18 22:09:43.128 [main] Log4jManager - Test Case: registerAttemptTest on [ExpediaAccountRegisterTest passed=0 failed=0 skipped=0] Started
+[INFO ] 2019-12-18 22:10:56.065 [main] Log4jManager - we get the web
+[INFO ] 2019-12-18 22:11:06.251 [main] Log4jManager - Filled in Sign Up section inofrmation from input 
+[INFO ] 2019-12-18 22:25:31.495 [main] Log4jManager - Successfully Initiated Chrome Driver
+[INFO ] 2019-12-18 22:25:31.511 [main] Log4jManager - Test Case: registerAttemptTest on [ExpediaAccountRegisterTest passed=0 failed=0 skipped=0] Started
+[INFO ] 2019-12-18 22:25:44.003 [main] Log4jManager - we get the web
+[INFO ] 2019-12-18 22:25:53.994 [main] Log4jManager - Filled in Sign Up section inofrmation from input 
+[INFO ] 2019-12-18 22:26:25.535 [main] Log4jManager - Test Case: registerAttemptTest on [ExpediaAccountRegisterTest passed=0 failed=0 skipped=0] Failed
+[INFO ] 2019-12-18 22:27:46.544 [main] Log4jManager - Successfully Initiated Chrome Driver
+[INFO ] 2019-12-18 22:27:46.557 [main] Log4jManager - Test Case: registerAttemptTest on [ExpediaAccountRegisterTest passed=0 failed=0 skipped=0] Started
+[INFO ] 2019-12-18 22:27:57.961 [main] Log4jManager - we get the web
+[INFO ] 2019-12-18 22:28:09.416 [main] Log4jManager - Filled in Sign Up section inofrmation from input 
+[INFO ] 2019-12-18 22:29:04.886 [main] Log4jManager - Successfully Initiated Chrome Driver
+[INFO ] 2019-12-18 22:29:04.914 [main] Log4jManager - Test Case: registerAttemptTest on [ExpediaAccountRegisterTest passed=0 failed=0 skipped=0] Started
+[INFO ] 2019-12-18 22:29:18.099 [main] Log4jManager - we get the web
+[INFO ] 2019-12-18 22:29:27.986 [main] Log4jManager - Filled in Sign Up section inofrmation from input 
+[INFO ] 2019-12-18 22:34:47.162 [main] Log4jManager - Successfully Initiated Chrome Driver
+[INFO ] 2019-12-18 22:34:47.179 [main] Log4jManager - Test Case: registerAttemptTest on [ExpediaAccountRegisterTest passed=0 failed=0 skipped=0] Started
+[INFO ] 2019-12-18 22:34:57.297 [main] Log4jManager - we get the web
+[INFO ] 2019-12-18 22:35:06.306 [main] Log4jManager - Filled in Sign Up section inofrmation from input 
+[ERROR] 2019-12-18 22:35:06.843 [main] Log4jManager - Wait Error: element was not visible after 60 seconds.
+[INFO ] 2019-12-18 22:35:06.866 [main] Log4jManager - Test Case: registerAttemptTest on [ExpediaAccountRegisterTest passed=0 failed=0 skipped=0] Failed
+[INFO ] 2019-12-18 22:37:36.472 [main] Log4jManager - Successfully Initiated Chrome Driver
+[INFO ] 2019-12-18 22:37:36.484 [main] Log4jManager - Test Case: registerAttemptTest on [ExpediaAccountRegisterTest passed=0 failed=0 skipped=0] Started
+[INFO ] 2019-12-18 22:37:51.149 [main] Log4jManager - we get the web
+[INFO ] 2019-12-18 22:38:01.761 [main] Log4jManager - Filled in Sign Up section inofrmation from input 
+[INFO ] 2019-12-18 22:46:12.621 [main] Log4jManager - Successfully Initiated Chrome Driver
+[INFO ] 2019-12-18 22:46:12.636 [main] Log4jManager - Test Case: registerAttemptTest on [ExpediaAccountRegisterTest passed=0 failed=0 skipped=0] Started
+[INFO ] 2019-12-18 22:46:22.271 [main] Log4jManager - we get the web
+[INFO ] 2019-12-18 22:46:31.039 [main] Log4jManager - Filled in Sign Up section inofrmation from input 
+[ERROR] 2019-12-18 22:46:31.318 [main] Log4jManager - Wait Error: element was not visible after 60 seconds.
+[INFO ] 2019-12-18 22:47:01.381 [main] Log4jManager - Test Case: registerAttemptTest on [ExpediaAccountRegisterTest passed=0 failed=0 skipped=0] Failed
+[INFO ] 2019-12-19 21:09:05.873 [main] Log4jManager - Successfully Initiated Chrome Driver in Docker Container
+[INFO ] 2019-12-19 21:09:05.916 [main] Log4jManager - Test Case: registerAttemptTest on [ExpediaAccountRegisterTest passed=0 failed=0 skipped=0] Started
+[INFO ] 2019-12-19 21:09:50.443 [main] Log4jManager - Test Case: registerAttemptTest on [ExpediaAccountRegisterTest passed=0 failed=0 skipped=0] Failed

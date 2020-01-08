@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [paresi expedia test]">
+  <listeners>
+    <listener class-name="utilities.reportRelated.TestListener"/>
+  </listeners>
+  <test thread-count="5" name="Smoke test on Chrome(failed)">
+    <parameter name="browser" value="Chrome"/>
+    <classes>
+      <class name="testCase.sysE2E.ExpediaAccountRegisterTest">
+        <methods>
+          <include name="registerAttemptTest"/>
+          <include name="afterAllTestCase"/>
+          <include name="beforeAllTestCase"/>
+          <include name="beforeEachTestCase"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- testCase.sysE2E.ExpediaAccountRegisterTest -->
+    </classes>
+  </test> <!-- Smoke test on Chrome(failed) -->
+</suite> <!-- Failed suite [paresi expedia test] -->

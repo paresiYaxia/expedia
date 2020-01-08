@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+
+
+
+<suite name="paresi expedia test"  parallel = "none">
+
+
+	<test name="Smoke test on Chrome">
+		<parameter name="browser" value="Chrome" />
+		<classes>
+			<class name="testCase.sysE2E.ExpediaAccountRegisterTest" />
+		</classes>
+	</test> <!-- Expedia.ca test -->
+
+
+
+
+
+	<!-- Test listener -->
+	<listeners>
+		<listener class-name="utilities.reportRelated.TestListener" />
+	</listeners>
+
+
+
+
+
+
+
+</suite>
